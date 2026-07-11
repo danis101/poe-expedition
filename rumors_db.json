@@ -1,0 +1,116 @@
+{
+    "Fallen Stars": {
+        "type": "map",
+        "score": 6,
+        "tier": "S+",
+        "desc": "Moor [Runestones]"
+    },
+    "Cold as ice": {
+        "type": "map",
+        "score": 5,
+        "tier": "A+",
+        "desc": "Frigid Bluffs [Old Expedition]"
+    },
+    "Nothing to drink": {
+        "type": "map",
+        "score": 4,
+        "tier": "A",
+        "desc": "Stagnant Basin [Oil]"
+    },
+    "Endless Cliffs": {
+        "type": "map",
+        "score": 4,
+        "tier": "A",
+        "desc": "Craggy Peninsula [Rarity/Rogue Exiles]"
+    },
+    "Sulphite!": {
+        "type": "map",
+        "score": 4,
+        "tier": "A",
+        "desc": "Scorched Cay [Increased Rarity]"
+    },
+    "Unknown Ruins": {
+        "type": "map",
+        "score": 3,
+        "tier": "B",
+        "desc": "Exhumed Ruins [Precursor Leylines]"
+    },
+    "Something Fishy": {
+        "type": "map",
+        "score": 3,
+        "tier": "B",
+        "desc": "Bleached Shoals [Gold]"
+    },
+    "Warm but risky": {
+        "type": "map",
+        "score": 3,
+        "tier": "B",
+        "desc": "Lush Island [Exp/Beyond/Hoards]"
+    },
+    "Bleak and Awful": {
+        "type": "map",
+        "score": 3,
+        "tier": "B",
+        "desc": "Barren Atoll [Strongbox]"
+    },
+    "It's Dry At Least": {
+        "type": "map",
+        "score": 1,
+        "tier": "D",
+        "desc": "Sloughed Gully [Monster effectiveness]"
+    },
+    "Wild, Roaming Free": {
+        "type": "map",
+        "score": 2,
+        "tier": "C",
+        "desc": "Grazed Prairie [Azmeri Spirits]"
+    },
+    "Reflective Waters": {
+        "type": "unique",
+        "score": 4,
+        "tier": "A",
+        "desc": "Lake of Kalandra [Ring Bases]"
+    },
+    "All that Glitters": {
+        "type": "unique",
+        "score": 4,
+        "tier": "A",
+        "desc": "Castaway [Gold]"
+    },
+    "Almost paradise": {
+        "type": "unique",
+        "score": 2,
+        "tier": "C",
+        "desc": "Untainted paradise [Exp]"
+    },
+    "A good fellow": {
+        "type": "unique",
+        "score": 2,
+        "tier": "C",
+        "desc": "Moment of Zen [Seer]"
+    },
+    "Origin of the Fall": {
+        "type": "boss",
+        "score": 4,
+        "tier": "A",
+        "desc": "Obscure Island [Olroth]"
+    },
+    "Stardrinker": {
+        "type": "boss",
+        "score": 4,
+        "tier": "A",
+        "desc": "Secluded Temple [Uhtred]"
+    },
+    "Last To Fall": {
+        "type": "boss",
+        "score": 3,
+        "tier": "B",
+        "desc": "Mournful Cliffside [Vorana]"
+    },
+    "End of the Circle": {
+        "type": "boss",
+        "score": 3,
+        "tier": "B",
+        "desc": "Sprawling Jungle [Medved]"
+    }
+}
