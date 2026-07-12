@@ -10,6 +10,8 @@ When you hover over a logbook in-game and press the scan hotkey, the tool reads 
 
 ---
 
+![App screenshot](assets/screenshot.png)
+
 ## Features
 
 - **Hotkey scanning** — hover over a logbook icon and press `F11` to scan, `F12` to reset (both configurable)
