@@ -112,3 +112,6 @@ If the tool isn't capturing the tooltip correctly (e.g. on ultrawide or high-DPI
 When logging is enabled, every scan is written to `scan_log.txt` in the app folder. This includes the raw OCR output, each match attempt, and the final result — useful for debugging missed or wrong detections.
 
 ---
+
+
+[DOWNLOAD LATEST RELEASE](https://github.com/danis101/poe-expedition/releases/latest)
