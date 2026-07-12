@@ -114,4 +114,4 @@ When logging is enabled, every scan is written to `scan_log.txt` in the app fold
 ---
 
 
-[DOWNLOAD LATEST RELEASE](https://github.com/danis101/poe-expedition/releases/latest)
+## [⬇ DOWNLOAD LATEST RELEASE](https://github.com/danis101/poe-expedition/releases/latest)
