@@ -20,7 +20,7 @@ When you hover over a logbook in-game and press the scan hotkey, the tool reads 
 
 - **Hotkey scanning** — hover over a logbook icon and press `F11` to scan, `F12` to reset (both configurable)
 - **Two detection methods:**
-  - **OCR** (EasyOCR) — reads the text directly from the screen; works without pre-made templates
+  - **OCR (EasyOCR)** — reads the text directly from the screen; works without pre-made templates **(slower than template matching)**
   - **Template matching** — faster, pixel-perfect matching using reference images (works best with 2k res)
 - **Tier rating system** — each rumour has a score; the whole logbook gets rated `D 💀` through `S+ 👑`
 - **Priority mode** — boosts the score of either maps or bosses, depending on what you're farming
