@@ -10,7 +10,7 @@ When you hover over a logbook in-game and press the scan hotkey, the tool reads 
 
 ---
 
-![App screenshot](assets/main window.png)
+![App screenshot](assets/main%20window.png)
 
 ## Features
 
